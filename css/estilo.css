@@ -228,8 +228,14 @@ section{
 .skills-items:hover .github{
     color: #fff;
 }
-.skills-items:hover .kraken{
-    color: #118379;
+.skills-items:hover .react{
+    color: #117283;
+}
+.skills-items:hover .android{
+    color: #3ddb86;
+}
+.skills-items:hover .java{
+    color: #e86f04;
 }
 i{
     margin-left: auto;
@@ -316,6 +322,9 @@ i{
 }
 .proyectos .articlepreview{
     background-image: url('../img/previewarticles.JPG');
+}
+.proyectos .ladingpage{
+    background-image: url('../img/landing.JPG');
 }
 .proy-info{
     width: auto;
